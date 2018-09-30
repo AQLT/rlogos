@@ -1,5 +1,7 @@
 library(RJDemetra)
 library(ggplot2)
+library(svglite)
+
 series <- structure(c(268.5, 289.8, 261.9, 267.2, 241.5, 256.2, 261.3, 
                       302.4, 426.1, 237.7, 216.4, 279.7, 308.3, 310.8, 284.6, 286.2, 
                       283, 298.5, 291.8, 320.3, 464.5, 256.8, 251.2, 309, 298.6, 356, 
@@ -52,24 +54,25 @@ series <- structure(c(268.5, 289.8, 261.9, 267.2, 241.5, 256.2, 261.3,
 mod <- x13_def(series,"RSA3")
 
 data <- cbind(mod$final$series, mod$final$forecasts)
-data  <- window(data ,start = 2008)              
+data  <- window(data ,start = 2014)              
 colnames(data) <- c(colnames(mod$final$series), colnames(mod$final$forecasts))
 
 time <- time(data)
 dataGraph <- data.frame(cbind(time, data))
+colnames(dataGraph) <- c("date", colnames(data))
 dataGraph[nrow(dataGraph)-12, sprintf("%s_f",c("y","sa","t","s","i"))] <- 
     dataGraph[nrow(dataGraph)-12, c("y","sa","t","s","i")]
-colnames(dataGraph) <- c("date", colnames(data))
 
-size <- 0.8 
+size <- 5
+linetype <- 2
 # dataGraph <- reshape2::melt(dataGraph, id="date")  # convert to long format
 p <- ggplot(data = dataGraph, aes(x = date))+
     geom_line(aes(y = y), color = "#F0BA17", size = size)  +
-    geom_line(aes(y = y_f),linetype=2, color = "#F0BA17", size = size) +
+    geom_line(aes(y = y_f),linetype=linetype, color = "#F0BA17", size = size) +
     geom_line(aes(y = t), color = "#1E6C0B", size = size)  +
-    geom_line(aes(y = t_f),linetype=2, color = "#1E6C0B", size = size) +
+    geom_line(aes(y = t_f),linetype=linetype, color = "#1E6C0B", size = size) +
     geom_line(aes(y = sa), color = "#00488C", size = size)  +
-    geom_line(aes(y = sa_f),linetype=2, color = "#00488C", size = size) +
+    geom_line(aes(y = sa_f),linetype=linetype, color = "#00488C", size = size) +
     theme_minimal() +
     theme(axis.title.x=element_blank(),
           axis.text.x=element_blank(),
@@ -82,3 +85,7 @@ p <- ggplot(data = dataGraph, aes(x = date))+
           panel.grid.minor.x = element_blank(),
           panel.grid.minor.y = element_blank())
 p
+ratio <- 2
+svglite("graphR.svg",height = 6 * ratio, width = 10.2 * ratio)
+p
+dev.off()
