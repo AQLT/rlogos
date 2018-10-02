@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="735"
-   height="852"
+   width="784"
+   height="908.79999"
    viewBox="0 0 735.00001 852.00001"
    id="svg5831"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.0 r15299"
    sodipodi:docname="rjdqa.svg"
    inkscape:export-filename="/Users/alainquartierlatente/Desktop/Logiciels/Logos_packages/rjdqa/rjdqa.png"
    inkscape:export-xdpi="90"
@@ -24,23 +24,11 @@
      id="defs5833">
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 526.1811 : 1"
-       inkscape:vp_y="0 : 999.99999 : 0"
-       inkscape:vp_z="744.09449 : 526.1811 : 1"
+       inkscape:vp_x="0 : 526.18111 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09449 : 526.18111 : 1"
        inkscape:persp3d-origin="372.04724 : 350.7874 : 1"
        id="perspective6832" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient6712">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop6714" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop6716" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient6143">
@@ -59,7 +47,7 @@
        id="clip-path">
       <polygon
          id="polygon4236"
-         points="369.51,981.72 369.51,981.72 728.21,1188.79 728.21,1610.94 369.51,1819.35 2.79,1610.94 2.79,1188.79 "
+         points="369.51,981.72 728.21,1188.79 728.21,1610.94 369.51,1819.35 2.79,1610.94 2.79,1188.79 369.51,981.72 "
          class="cls-1"
          style="fill:none" />
     </clipPath>
@@ -90,7 +78,7 @@
        id="clip-path-2">
       <polygon
          id="polygon4246"
-         points="369.51,7.4 369.51,7.4 728.21,214.47 728.21,636.62 369.51,845.03 2.79,636.62 2.79,214.47 "
+         points="369.51,7.4 728.21,214.47 728.21,636.62 369.51,845.03 2.79,636.62 2.79,214.47 369.51,7.4 "
          class="cls-1"
          style="fill:none" />
     </clipPath>
@@ -101,17 +89,6 @@
        y1="-122.39"
        x1="366.25"
        id="linear-gradient-2" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6712"
-       id="radialGradient6718"
-       cx="366.76846"
-       cy="630.11292"
-       fx="366.76846"
-       fy="630.11292"
-       r="366.63583"
-       gradientTransform="matrix(1,0,0,1.1521597,0.36734496,-96.551849)"
-       gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6143"
@@ -327,21 +304,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.55981979"
-     inkscape:cx="-1.1578177"
-     inkscape:cy="498.51111"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="349.9789"
+     inkscape:cy="603.7625"
      inkscape:document-units="px"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer4"
      showgrid="true"
-     inkscape:window-width="1078"
-     inkscape:window-height="664"
-     inkscape:window-x="6"
-     inkscape:window-y="4"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1680"
+     inkscape:window-height="988"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      units="px">
     <inkscape:grid
        type="xygrid"
-       id="grid6729" />
+       id="grid6729"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1" />
   </sodipodi:namedview>
   <metadata
      id="metadata5836">
@@ -362,7 +343,7 @@
      style="display:inline"
      transform="translate(0,-200.36216)">
     <path
-       style="fill:#000000"
+       style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
        d=""
        id="path5910"
        inkscape:connector-curvature="0" />
@@ -391,7 +372,7 @@
          inkscape:flatsided="true"
          inkscape:rounded="0"
          inkscape:randomized="0"
-         d="m 50.577351,1030.2115 -12.5,21.6507 -25,0 -12.50000038,-21.6507 12.50000038,-21.6506 25,0 z"
+         d="m 50.577351,1030.2115 -12.5,21.6507 h -25 L 0.57735062,1030.2115 13.077351,1008.5609 h 25 z"
          transform="matrix(0,-16.91692,16.957285,0,-17102.455,1062.1292)" />
     </g>
     <g
@@ -407,8 +388,8 @@
       <path
          inkscape:connector-curvature="0"
          id="path4219"
-         d="M 183.14805,946.26252 0.5,840.72874 0.5,629.53905 0.5,418.34931 183.50617,312.68106 c 100.65336,-58.11754 183.64886,-105.66688 184.43436,-105.66522 0.7855,0.002 83.4188,47.34571 183.6296,105.20899 l 182.2015,105.20597 0,212.10065 0,212.10059 -182.1227,105.14778 c -100.1675,57.83118 -182.962,105.11808 -183.9878,105.08198 -1.0258,-0.036 -84.0566,-47.5558 -184.51308,-105.59928 z m 210.61178,60.28868 c 3.5905,-2.0607 75.3323,-43.50108 159.4263,-92.08996 l 152.8981,-88.3433 -0.016,-195.67659 -0.016,-195.67667 -11.1478,-6.38011 c -6.1314,-3.50907 -81.8676,-47.25082 -168.3029,-97.2039 -86.4352,-49.95309 -157.9761,-90.78499 -158.9797,-90.73757 -1.0036,0.0474 -66.1311,37.29754 -144.72785,82.77803 -78.59672,45.48048 -154.15674,89.18964 -167.91116,97.13146 l -25.00805,14.43967 -0.40515,195.58489 -0.40515,195.58479 169.20946,97.64528 169.2095,97.64518 9.8246,-5.4773 c 5.4035,-3.0125 12.7623,-7.1633 16.3528,-9.2239 z"
-         style="fill:#000000;fill-opacity:1;stroke:url(#radialGradient6718);stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+         d="M 182.89712,946.63783 0,840.97909 V 629.53935 418.09955 L 183.25573,312.30619 c 100.79062,-58.18636 183.8993,-105.792 184.68587,-105.79034 0.78657,0.002 83.53256,47.40177 183.88001,105.33357 L 734.27158,417.17995 V 629.53174 841.88346 L 551.90052,947.15574 c -100.3041,57.89966 -183.2115,105.24246 -184.2387,105.20636 -1.0272,-0.036 -84.17123,-47.6121 -184.7647,-105.72427 z m 210.89899,60.36007 c 3.5954,-2.0632 75.43503,-43.5526 159.64371,-92.19901 l 153.1066,-88.4479 -0.016,-195.90828 -0.016,-195.90835 -11.16301,-6.38767 C 689.21165,424.63347 613.37217,380.83993 526.819,330.8277 440.26593,280.81546 368.62747,239.93522 367.62251,239.98269 c -1.00497,0.0475 -66.22129,37.3417 -144.92522,82.87605 -78.7039,45.53433 -154.366956,89.29524 -168.140133,97.24646 l -25.042153,14.45677 -0.405702,195.81647 -0.405703,195.81637 169.440211,97.76089 169.44024,97.7608 9.838,-5.4838 c 5.41087,-3.0161 12.77971,-7.1718 16.3751,-9.2348 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00127387;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
     </g>
   </g>
   <g
@@ -423,15 +404,16 @@
        style="display:inline">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00000007px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#782121;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#782121;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="-191.39755"
          y="1061.7933"
          id="text6838"
-         sodipodi:linespacing="125%"
-         transform="matrix(0.8660254,-0.5,0.5,0.8660254,0,0)"><tspan
+         transform="rotate(-30)"><tspan
            sodipodi:role="line"
            id="tspan3397"
-           style="fill:#550000">https://github.com/aqlt/rjdqa</tspan></text>
+           style="fill:#550000"
+           x="-191.39755"
+           y="1061.7933">https://github.com/aqlt/rjdqa</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -454,7 +436,7 @@
          preserveAspectRatio="none"
          height="202.04195"
          width="192.85823"
-         transform="matrix(0.5857672,0.81047935,-0.81047935,0.5857672,0,0)" />
+         transform="rotate(54.142792)" />
       <image
          y="717.25067"
          x="136"
@@ -492,8 +474,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125px;line-height:125%;font-family:'Imprint MT Shadow';-inkscape-font-specification:'Imprint MT Shadow, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#782121;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="234.28574"
          y="663.25922"
-         id="text6834"
-         sodipodi:linespacing="125%"><tspan
+         id="text6834"><tspan
            sodipodi:role="line"
            id="tspan3395"
            x="234.28574"
