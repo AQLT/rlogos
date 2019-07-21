@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 1468.80 864.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    line, polyline, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpOC4yMTkxOHwxNDYzLjMyfDg1NS43ODF8NS40Nzk0NQ=='>
+    <rect x='8.22' y='5.48' width='1455.10' height='850.30' />
+  </clipPath>
+</defs>
+<polyline points='74.36,485.84 239.71,375.42 405.07,485.84 570.42,375.42 735.77,485.84 901.12,375.42 1066.47,485.84 1231.83,375.42 1397.18,485.84 ' style='stroke-width: 1.07; stroke-linecap: butt;' clip-path='url(#cpOC4yMTkxOHwxNDYzLjMyfDg1NS43ODF8NS40Nzk0NQ==)' />
+<defs>
+  <clipPath id='cpMHwxNDY4Ljh8ODY0fDA='>
+    <rect x='0.00' y='0.00' width='1468.80' height='864.00' />
+  </clipPath>
+</defs>
+</svg>

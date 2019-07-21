@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 1468.80 864.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    line, polyline, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpOC4yMTkxOHwxNDYzLjMyfDg1NS43ODF8NS40Nzk0NQ=='>
+    <rect x='8.22' y='5.48' width='1455.10' height='850.30' />
+  </clipPath>
+</defs>
+<polyline points='74.36,720.92 338.92,591.39 603.49,410.61 868.05,437.58 1132.62,247.58 1397.18,189.95 ' style='stroke-width: 32.01; stroke: #F0BA17; stroke-linecap: butt;' clip-path='url(#cpOC4yMTkxOHwxNDYzLjMyfDg1NS43ODF8NS40Nzk0NQ==)' />
+<polyline points='74.36,480.18 338.92,777.49 603.49,281.98 868.05,579.28 1132.62,83.77 1397.18,381.08 ' style='stroke-width: 32.01; stroke-linecap: butt;' clip-path='url(#cpOC4yMTkxOHwxNDYzLjMyfDg1NS43ODF8NS40Nzk0NQ==)' />
+<circle cx='74.36' cy='480.18' r='48.37pt' style='stroke-width: 0.71; stroke: #A8D6FF; fill: #A8D6FF;' clip-path='url(#cpOC4yMTkxOHwxNDYzLjMyfDg1NS43ODF8NS40Nzk0NQ==)' />
+<circle cx='338.92' cy='777.49' r='48.37pt' style='stroke-width: 0.71; stroke: #86B9E8; fill: #86B9E8;' clip-path='url(#cpOC4yMTkxOHwxNDYzLjMyfDg1NS43ODF8NS40Nzk0NQ==)' />
+<circle cx='603.49' cy='281.98' r='48.37pt' style='stroke-width: 0.71; stroke: #649DD1; fill: #649DD1;' clip-path='url(#cpOC4yMTkxOHwxNDYzLjMyfDg1NS43ODF8NS40Nzk0NQ==)' />
+<circle cx='868.05' cy='579.28' r='48.37pt' style='stroke-width: 0.71; stroke: #4380BA; fill: #4380BA;' clip-path='url(#cpOC4yMTkxOHwxNDYzLjMyfDg1NS43ODF8NS40Nzk0NQ==)' />
+<circle cx='1132.62' cy='83.77' r='48.37pt' style='stroke-width: 0.71; stroke: #2164A3; fill: #2164A3;' clip-path='url(#cpOC4yMTkxOHwxNDYzLjMyfDg1NS43ODF8NS40Nzk0NQ==)' />
+<circle cx='1397.18' cy='381.08' r='48.37pt' style='stroke-width: 0.71; stroke: #00488C; fill: #00488C;' clip-path='url(#cpOC4yMTkxOHwxNDYzLjMyfDg1NS43ODF8NS40Nzk0NQ==)' />
+<defs>
+  <clipPath id='cpMHwxNDY4Ljh8ODY0fDA='>
+    <rect x='0.00' y='0.00' width='1468.80' height='864.00' />
+  </clipPath>
+</defs>
+</svg>
